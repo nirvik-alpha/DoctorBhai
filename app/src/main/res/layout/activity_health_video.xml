@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navi"
+    tools:context=".HealthVideoActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:src="@drawable/hqdefault"
+            android:layout_margin="10dp"
+            android:scaleType="centerCrop"
+            />
+
+        <!--  Album.............................   -->
+        <LinearLayout
+            android:id="@+id/laySong1"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:background="#FF03DAC5"
+
+            >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="160dp"
+                android:background="#29C896"
+                android:src="@drawable/cancer"
+
+                />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ক্যান্সার কি? কেন হয়? কিভাবে হয়? চিকিৎসা কি? কতদিন বাঁচা যায়?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:textStyle="normal"
+                    android:maxLines="2"
+
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="ডাঃ খন্দকার এ বি এম আব্দুল্লাহ্ আল হাছান
+ক্যান্সার সার্জন এবং ল্যাপারোস্কপি বিশেষজ্ঞ"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="Duration: 5:00"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <!--  Album >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   -->
+
+
+
+
+
+        <!--  Album.............................   -->
+        <LinearLayout
+            android:id="@+id/laySong2"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:background="#FF03DAC5"
+
+            >
+
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="160dp"
+                android:background="#29C896"
+                android:src="@drawable/maxresdefault" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="পাইলসের আধুনিক চিকিৎসা গুলো কি কি?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:textStyle="normal"
+                    android:maxLines="2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="অধ্যাপক ডাঃ মোহাম্মদ জামাল আবু নাসের
+এমবিবিএস, এফসিপিএস (সার্জারী),
+এফএমএএস(ভারত)"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="Duration: 4:22"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <!--  Album >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   -->
+
+
+
+
+
+
+
+
+        <!--  Album.............................   -->
+        <LinearLayout
+            android:id="@+id/laySong3"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:background="#FF03DAC5"
+
+            >
+
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="160dp"
+                android:background="#29C896"
+                android:src="@drawable/dnak" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="কি কি কারণে নাক দিয়ে রক্ত ঝড়তে পারে?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:textStyle="normal"
+                    android:maxLines="2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="প্রফেসর ডাঃ কামরুল হাসান তরফদার
+এফসিপিএস, এফআইসিএস, এফএসিএস, এফআরসিএস (ইংল্যান্ড)
+"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="Duration: 4:59"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <!--  Album >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   -->
+
+
+        <!--  Album.............................   -->
+        <LinearLayout
+            android:id="@+id/laySong4"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:background="#FF03DAC5"
+
+            >
+
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="160dp"
+                android:background="#29C896"
+                android:src="@drawable/hatu" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="হাঁটুর লিগামেন্ট ইনজুরি ও প্রতিকার। "
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:textStyle="normal"
+                    android:maxLines="2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="পডাঃ দিবাকর সরকার
+কনসালটেন্ট (অর্থো সার্জারী)
+এমবিবিএস, বিসিএস (স্বাস্থ্য), এমএস (অর্থো সার্জারী)
+"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="Duration: 4:59"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <!--  Album >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   -->
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</ScrollView>

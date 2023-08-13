@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical"
+    tools:context=".SplashActivity">
+
+    <TextView
+        android:id="@+id/rrr"
+        android:layout_width="293dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="80dp"
+        android:text="DOCTORBHAI"
+        app:fontFamily="sans-serif-thin"
+        android:textColor="#121843"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:lottie_url="https://assets4.lottiefiles.com/packages/lf20_W5Sk67.json"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="254dp"
+        android:layout_height="43dp"
+        android:layout_marginLeft="75dp"
+        android:background="@drawable/btn_bg"
+        android:layout_marginTop="20dp"
+         android:radius="70dp"
+        android:text="Getting Started "
+        android:textColor="#fff"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.406"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextLoginPassword" />
+
+
+    <TextView
+        android:id="@+id/signupsplash"
+        android:layout_width="236dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="155dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="80dp"
+        android:text="Sign Up !"
+
+        android:textColor="#121843"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

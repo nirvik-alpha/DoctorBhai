@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable-v24/buttonbackground.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/btn_login.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/buttonbackground.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/cardbackground.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_add_location_alt_24.xml" value="0.1095" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1235" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_article_24.xml" value="0.134" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.1265" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.107" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.107" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_medical_services_24.xml" value="0.107" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.107" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_person_search_24.xml" value="0.1" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1235" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/ic_baseline_video_library_24.xml" value="0.1545" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/input_bg.xml" value="0.1" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/lab_24.xml" value="0.1235" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/language.xml" value="0.107" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/malefemalefocus.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/malefemalenotfocus.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/plusminus.xml" value="0.1205" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/drawable/searchview_bg.xml" value="0.103" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_article.xml" value="0.129981884057971" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_article_detail.xml" value="0.129981884057971" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_bmiactivity.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_bmicalculate.xml" value="0.19157608695652173" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_book_appointment.xml" value="0.22" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_cart_lab.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_doctor_details.xml" value="0.2" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_emergency.xml" value="0.129981884057971" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_find_doctor.xml" value="0.22" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_health_video.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_lab_test.xml" value="0.22" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_lab_test_book_acitivity.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_lab_test_detail.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_medicine_list.xml" value="0.14266304347826086" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_order_details.xml" value="0.22" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_splash.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/activity_video_player.xml" value="0.209375" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/multi_lines.xml" value="0.22" />
+        <entry key="..\:/Android Mini Projects/DoctorBhai/app/src/main/res/layout/sample_layout.xml" value="0.14266304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

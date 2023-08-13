@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navi"
+    tools:context=".ArticleDetailActivity">
+
+    <TextView
+        android:id="@+id/textDoctorDetailName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DOCTORBHAI"
+        android:textColor="@color/teal_200"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <TextView
+        android:id="@+id/textarticledetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Health Articles"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textDoctorDetailName"
+        app:layout_constraintVertical_bias="0.037" />
+
+    <ImageView
+        android:id="@+id/articleimagedetail"
+        android:layout_width="358dp"
+        android:layout_height="526dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textarticledetail"
+        app:layout_constraintVertical_bias="0.01999998"
+        tools:srcCompat="@drawable/health1"
+        />
+    <Button
+        android:id="@+id/detailbtnback"
+        android:text="Back"
+        android:background="@drawable/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/articleimagedetail"
+        app:layout_constraintVertical_bias="0.69"
+        />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
