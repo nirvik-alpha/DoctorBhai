@@ -27,19 +27,25 @@ Wanna run this app ? download this !
 ## Login - Registration
 <img src="./S_Shots/log.jpg" width="300" height="500" title="" />  <img src="./S_Shots/reg.jpg" width="300" height="500" title="" />
 
-<img src="./S_Shots/reg.jpg" width="300" height="500" title="" />     <img src="./S_Shots/home.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/home.jpg" width="300" height="500" title="" />     <img src="./S_Shots/doc.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/share.jpg" width="300" height="500" title="" />     <img src="./S_Shots/feedback.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/docdet.jpg" width="300" height="500" title="" />     <img src="./S_Shots/docappoint.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/log.jpg" width="300" height="500" title="" />     <img src="./S_Shots/category.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/date.jpg" width="300" height="500" title="" />     <img src="./S_Shots/med.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/fashion.jpg" width="300" height="500" title="" />     <img src="./S_Shots/elec.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/package.jpg" width="300" height="500" title="" />     <img src="./S_Shots/labdet.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/grocery.jpg" width="300" height="500" title="" />     <img src="./S_Shots/sports.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/labbook.jpg" width="300" height="500" title="" />     <img src="./S_Shots/laborder.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/detail.jpg" width="300" height="500" title="" />     <img src="./S_Shots/proceed.jpg" width="300" height="500" title="" /> 
+<img src="./S_Shots/order.jpg" width="300" height="500" title="" />     <img src="./S_Shots/loc.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/shipping.jpg" width="300" height="500" title="" />    
+<img src="./S_Shots/bmi.jpg" width="300" height="500" title="" />    <img src="./S_Shots/bmipos.jpg" width="300" height="500" title="" />    
+
+<img src="./S_Shots/bmineg.jpg" width="300" height="500" title="" />    <img src="./S_Shots/artic.jpg" width="300" height="500" title="" />    
+
+<img src="./S_Shots/ar1.jpg" width="300" height="500" title="" />    <img src="./S_Shots/ar2.jpg" width="300" height="500" title="" />    
+
+<img src="./S_Shots/vidlist.jpg" width="300" height="500" title="" />    <img src="./S_Shots/viddesc.jpg" width="300" height="500" title="" />   
 
 
 
