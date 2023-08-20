@@ -21,4 +21,26 @@ Wanna run this app ? download this !
 
 ## Project Demo : 
 
+## Splash Screen : 
+<img src="./S_Shots/splash.jpg" width="300" height="500" title="" />  
+
+## Login - Registration
+<img src="./S_Shots/log.jpg" width="300" height="500" title="" />  <img src="./S_Shots/reg.jpg" width="300" height="500" title="" />
+
+<img src="./S_Shots/reg.jpg" width="300" height="500" title="" />     <img src="./S_Shots/home.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/share.jpg" width="300" height="500" title="" />     <img src="./S_Shots/feedback.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/log.jpg" width="300" height="500" title="" />     <img src="./S_Shots/category.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/fashion.jpg" width="300" height="500" title="" />     <img src="./S_Shots/elec.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/grocery.jpg" width="300" height="500" title="" />     <img src="./S_Shots/sports.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/detail.jpg" width="300" height="500" title="" />     <img src="./S_Shots/proceed.jpg" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/shipping.jpg" width="300" height="500" title="" />    
+
+
+
 
